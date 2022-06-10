@@ -1,5 +1,5 @@
 name: CI
-
+< ethiopia hagere zarem be lijish kef blo taye sendekalamash>
 env: {NODE_VERSION: 14}
 
 on:
